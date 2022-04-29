@@ -1,0 +1,21 @@
+.navbar-nav .nav-item .nav-link{
+	margin-left: 40px;
+	font-size: 1.2em;
+	font-weight: normal;
+	color: ghostwhite;
+
+  
+
+} 
+
+
+*{
+	font-family: "Raleway", sans-serif;
+}
+
+.navbar-nav .nav-item .nav-link: hover{
+	background-color: #ddd;
+  color: black;
+
+}
+
